@@ -9,5 +9,5 @@
 ➠git clone https://github.com/W4HYUXD/BFB
 ➠cd BFB
 ➠git pull
-➠python bot.py
+➠python run.py
 ```
