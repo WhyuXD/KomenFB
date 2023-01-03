@@ -6,8 +6,8 @@
 ➠pip install mechanize 
 ➠pip install bs4
 ➠rm -rf BFB
-➠git clone https://github.com/W4HYUXD/BFB
-➠cd BFB
+➠git clone https://github.com/W4HYUXD/KomenFB
+➠cd KomenFB
 ➠git pull
 ➠python run.py
 ```
